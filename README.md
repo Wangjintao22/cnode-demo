@@ -1,4 +1,4 @@
-# 高仿CNode社区  [点我预览]()
+# 高仿CNode社区  [点我预览](https://wangjintao22.github.io/cnode-demo/dist/index.html#/)
 
 ## Project setup
 ```
